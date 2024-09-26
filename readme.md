@@ -5,7 +5,7 @@
 
 ## 使い方
 
-### .exe をゲット
+### zip をダウンロード＆解凍し、実行ファイルを配置
 
 - Release 内の .zip を解凍じて、AMDSoftwareAdrenalinEditionAutoCloser.exe をどこか適当なディレクトリに配置
   （ご自身のツールなどのディレクトリなどわかりやすい、忘れないディレクトリに配置してください)
@@ -25,7 +25,7 @@
 
 ![3.png](3.png)
 
-- 実行するプログラムとして、「AMDSoftwareAdrenalinEditionAutoCloser.exe」を参照
+- 実行するプログラムとして、「AMDSoftwareAdrenalinEditionAutoCloser.exe」を設定
 
 ![4.png](4.png)
 
