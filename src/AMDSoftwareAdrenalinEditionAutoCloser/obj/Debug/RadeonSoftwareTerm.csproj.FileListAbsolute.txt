@@ -1,0 +1,7 @@
+C:\Users\master\source\repos\RadeonSoftwareTerm\RadeonSoftwareTerm\bin\Debug\RadeonSoftwareTerm.exe.config
+C:\Users\master\source\repos\RadeonSoftwareTerm\RadeonSoftwareTerm\bin\Debug\RadeonSoftwareTerm.exe
+C:\Users\master\source\repos\RadeonSoftwareTerm\RadeonSoftwareTerm\bin\Debug\RadeonSoftwareTerm.pdb
+C:\Users\master\source\repos\RadeonSoftwareTerm\RadeonSoftwareTerm\obj\Debug\RadeonSoftwareTerm.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\RadeonSoftwareTerm\RadeonSoftwareTerm\obj\Debug\RadeonSoftwareTerm.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\RadeonSoftwareTerm\RadeonSoftwareTerm\obj\Debug\RadeonSoftwareTerm.exe
+C:\Users\master\source\repos\RadeonSoftwareTerm\RadeonSoftwareTerm\obj\Debug\RadeonSoftwareTerm.pdb

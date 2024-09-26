@@ -1,0 +1,14 @@
+C:\Users\master\source\repos\RadeonSoftwareTerm\RadeonSoftwareTerm\bin\Release\RadeonSoftwareTerm.exe.config
+C:\Users\master\source\repos\RadeonSoftwareTerm\RadeonSoftwareTerm\bin\Release\RadeonSoftwareTerm.exe
+C:\Users\master\source\repos\RadeonSoftwareTerm\RadeonSoftwareTerm\bin\Release\RadeonSoftwareTerm.pdb
+C:\Users\master\source\repos\RadeonSoftwareTerm\RadeonSoftwareTerm\obj\Release\RadeonSoftwareTerm.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\RadeonSoftwareTerm\RadeonSoftwareTerm\obj\Release\RadeonSoftwareTerm.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\RadeonSoftwareTerm\RadeonSoftwareTerm\obj\Release\RadeonSoftwareTerm.exe
+C:\Users\master\source\repos\RadeonSoftwareTerm\RadeonSoftwareTerm\obj\Release\RadeonSoftwareTerm.pdb
+C:\usr\amd_custom_tool\src\RadeonSoftwareTerm\bin\Release\RadeonSoftwareTerm.exe.config
+C:\usr\amd_custom_tool\src\RadeonSoftwareTerm\bin\Release\RadeonSoftwareTerm.exe
+C:\usr\amd_custom_tool\src\RadeonSoftwareTerm\bin\Release\RadeonSoftwareTerm.pdb
+C:\usr\amd_custom_tool\src\RadeonSoftwareTerm\obj\Release\RadeonSoftwareTerm.csproj.AssemblyReference.cache
+C:\usr\amd_custom_tool\src\RadeonSoftwareTerm\obj\Release\RadeonSoftwareTerm.csproj.CoreCompileInputs.cache
+C:\usr\amd_custom_tool\src\RadeonSoftwareTerm\obj\Release\RadeonSoftwareTerm.exe
+C:\usr\amd_custom_tool\src\RadeonSoftwareTerm\obj\Release\RadeonSoftwareTerm.pdb

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\usr\\amd_custom_tool\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A27238E0-E0AE-4F90-A03C-BAB3B0CA9882}|RadeonSoftwareTerm\\RadeonSoftwareTerm.csproj|c:\\usr\\amd_custom_tool\\src\\radeonsoftwareterm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27238E0-E0AE-4F90-A03C-BAB3B0CA9882}|RadeonSoftwareTerm\\RadeonSoftwareTerm.csproj|solutionrelative:radeonsoftwareterm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RadeonSoftwareTerm||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\usr\\amd_custom_tool\\src\\RadeonSoftwareTerm\\Program.cs",
+              "RelativeDocumentMoniker": "RadeonSoftwareTerm\\Program.cs",
+              "ToolTip": "C:\\usr\\amd_custom_tool\\src\\RadeonSoftwareTerm\\Program.cs",
+              "RelativeToolTip": "RadeonSoftwareTerm\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:29:28.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RadeonSoftwareTerm",
+              "DocumentMoniker": "C:\\usr\\amd_custom_tool\\src\\RadeonSoftwareTerm\\RadeonSoftwareTerm.csproj",
+              "RelativeDocumentMoniker": "RadeonSoftwareTerm\\RadeonSoftwareTerm.csproj",
+              "ToolTip": "C:\\usr\\amd_custom_tool\\src\\RadeonSoftwareTerm\\RadeonSoftwareTerm.csproj",
+              "RelativeToolTip": "RadeonSoftwareTerm\\RadeonSoftwareTerm.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-21T04:28:26.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

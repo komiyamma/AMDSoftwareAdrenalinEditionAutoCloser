@@ -1,0 +1,7 @@
+C:\usr\amd_custom_tool\src\AMDSoftwareAdrenalinEditionAutoCloser\bin\Release\AMDSoftwareAdrenalinEditionAutoCloser.exe.config
+C:\usr\amd_custom_tool\src\AMDSoftwareAdrenalinEditionAutoCloser\bin\Release\AMDSoftwareAdrenalinEditionAutoCloser.exe
+C:\usr\amd_custom_tool\src\AMDSoftwareAdrenalinEditionAutoCloser\bin\Release\AMDSoftwareAdrenalinEditionAutoCloser.pdb
+C:\usr\amd_custom_tool\src\AMDSoftwareAdrenalinEditionAutoCloser\obj\Release\AMDSoftwareAdrenalinEditionAutoCloser.csproj.AssemblyReference.cache
+C:\usr\amd_custom_tool\src\AMDSoftwareAdrenalinEditionAutoCloser\obj\Release\AMDSoftwareAdrenalinEditionAutoCloser.csproj.CoreCompileInputs.cache
+C:\usr\amd_custom_tool\src\AMDSoftwareAdrenalinEditionAutoCloser\obj\Release\AMDSoftwareAdrenalinEditionAutoCloser.exe
+C:\usr\amd_custom_tool\src\AMDSoftwareAdrenalinEditionAutoCloser\obj\Release\AMDSoftwareAdrenalinEditionAutoCloser.pdb
