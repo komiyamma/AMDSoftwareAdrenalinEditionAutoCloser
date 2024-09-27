@@ -12,19 +12,8 @@ namespace RadeonSoftwareTerm
         static async Task Main(string[] args)
         {
             var count = 0;
-
-            for(int i=0; i<8; i++)
-            {
-                if (count == 0)
-                {
-                    await Task.Delay(100); // 0.1秒待つ
-                    count = KillTargetProcess();
-                }
-                else
-                {
-                    break;
-                }
-            }
+            await Task.Delay(200); // 0.2秒待つ
+            count = KillTargetProcess();
         }
 
         private static int KillTargetProcess()
